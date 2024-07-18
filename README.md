@@ -1,5 +1,5 @@
-# GithubpagesDevops
-This is a demo example how to build static pages on Github.
+# Github Pages Devops
+This is a demo example about how to build static pages on Github, By using [jekyllrb](https://jekyllrb.com/).
 
 The following pipeline it's a definition of how the website provided by Github works. It will be activate on every push into "main" branch.
 
